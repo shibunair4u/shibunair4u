@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shibunair4u
-- 👀 I’m interested in developing solutions 
-- 🌱 I’m currently learning java, spring and testing framework, kubernetes, aws
-- 💞️ I’m looking to collaborate on anything that will scale up my skills on the learings mention.
+- 👀 I’m interested in reading, learning and contributing to the developer community.
+- 🌱 I’m currently learning java, spring, kubernetes, aws
+- 💞️ I’m looking to collaborate on anything that will hone by skills on the technologies mentioned.
 - 📫 How to reach me shibunair4u@gmail.com
 
 <!---
